@@ -1,4 +1,4 @@
-@startuml Energy Consumption Accounting System Web App. Диаграмма infrastructure
+@startuml Система учета библиотеки. Диаграмма infrastructure
 ' C4
 !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Deployment.puml
 

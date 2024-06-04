@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "out/2. Технический проект/infrastructure/Energy Consumption Accounting System Web App. Диаграмма infrastructure.png"
+                "file": "out/2. Технический проект/maintanence/Energy Consumption Accounting System Web App. maintenance.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "out/2. Технический проект/infrastructure/Energy Consumption Accounting System Web App. Диаграмма infrastructure.png",
+                "file": "out/2. Технический проект/maintanence/Energy Consumption Accounting System Web App. maintenance.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "out/2. Технический проект/infrastructure/Energy Consumption Accounting System Web App. Диаграмма infrastructure.png",
+                "file": "out/2. Технический проект/maintanence/Energy Consumption Accounting System Web App. maintenance.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "out/2. Технический проект/infrastructure/Energy Consumption Accounting System Web App. Диаграмма infrastructure.png"
+                "file": "out/2. Технический проект/maintanence/Energy Consumption Accounting System Web App. maintenance.png"
               }
             }
           }
@@ -146,36 +146,36 @@
   },
   "active": "c5115dd96533e2e8",
   "lastOpenFiles": [
+    "out/2. Технический проект/infrastructure/Energy Consumption Accounting System Web App. Диаграмма infrastructure.png",
     "out/2. Технический проект/activity/Диаграмма активности.png",
+    "2. Технический проект/3_Компоненты.md",
+    "2. Технический проект/2_Контейнеры.md",
+    "2. Технический проект/1_Контекст.md",
+    "ADR/2024-06.8 - Выбор инструментов для мониторинга системы.md",
+    "ADR/2024-06.7 - Выбор технологического процесса разработки.md",
+    "ADR/2024-06.6 - Выбор инструментов автоматического тестирования.md",
+    "ADR/2024-06.4 - Выбор системы хранения данных.md",
+    "ADR/2024-06.3 - Выбор технологии программирования клиентского приложения.md",
+    "ADR/2024-06.2 - Выбор технологии программирования серверной части.md",
+    "ADR/2024-06.1 - Выбор архитектурной формы системы.md",
+    "1. Исходные сведения/Архитектурные факторы.md",
     "out/2. Технический проект/activity",
     "2. Технический проект/activity.puml",
     "out/2. Технический проект/maintanence/Energy Consumption Accounting System Web App. maintenance.png",
     "out/2. Технический проект/maintanence",
     "out/2. Технический проект/activitu/Диаграмма активности.png",
-    "2. Технический проект/3_Компоненты.md",
     "2. Технический проект/maintanence.puml",
-    "out/2. Технический проект/infrastructure/Energy Consumption Accounting System Web App. Диаграмма infrastructure.png",
     "out/2. Технический проект/infrastructure",
     "2. Технический проект/infrastructure.puml",
     "out/2. Технический проект/activitu",
     "2. Технический проект/activitu.puml",
     "out/2. Технический проект/3_component/API. Диаграмма компонентов.png",
-    "2. Технический проект/2_Контейнеры.md",
     "out/2. Технический проект/3_component",
     "out/2. Технический проект/sample-component/comp.diag",
-    "2. Технический проект/1_Контекст.md",
     "out/2. Технический проект/2_container/Диаграмма контейнеров.png",
     "out/2. Технический проект/1_context/Диаграмма контекста.png",
     "out/2. Технический проект/1_context/Диаграмма контейнеров.png",
     "2. Технический проект/Код.md",
-    "ADR/2024-06.8 - Выбор инструментов для мониторинга системы.md",
-    "ADR/2024-06.7 - Выбор технологического процесса разработки.md",
-    "ADR/2024-06.1 - Выбор архитектурной формы системы.md",
-    "ADR/2024-06.6 - Выбор инструментов автоматического тестирования.md",
-    "ADR/2024-06.3 - Выбор технологии программирования клиентского приложения.md",
-    "ADR/2024-06.4 - Выбор системы хранения данных.md",
-    "ADR/2024-06.2 - Выбор технологии программирования серверной части.md",
-    "1. Исходные сведения/Архитектурные факторы.md",
     "Event Storming.md",
     "1. Исходные сведения/Словарь.md",
     "1. Исходные сведения/Введение.md",
