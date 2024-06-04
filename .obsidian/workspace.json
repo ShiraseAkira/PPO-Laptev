@@ -11,13 +11,28 @@
             "id": "c5115dd96533e2e8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "out/2. Технический проект/maintanence/Energy Consumption Accounting System Web App. maintenance.png"
+                "file": "Event Storming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57e328b55a6dfc0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Event Storming.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "out/2. Технический проект/maintanence/Energy Consumption Accounting System Web App. maintenance.png",
+                "file": "Event Storming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "out/2. Технический проект/maintanence/Energy Consumption Accounting System Web App. maintenance.png",
+                "file": "Event Storming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "out/2. Технический проект/maintanence/Energy Consumption Accounting System Web App. maintenance.png"
+                "file": "Event Storming.md"
               }
             }
           }
@@ -144,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5115dd96533e2e8",
+  "active": "57e328b55a6dfc0c",
   "lastOpenFiles": [
+    "Story Map.md",
+    "Event Storming.md",
+    "README.md",
     "out/2. Технический проект/infrastructure/Energy Consumption Accounting System Web App. Диаграмма infrastructure.png",
     "out/2. Технический проект/activity/Диаграмма активности.png",
     "2. Технический проект/3_Компоненты.md",
@@ -176,14 +194,12 @@
     "out/2. Технический проект/1_context/Диаграмма контекста.png",
     "out/2. Технический проект/1_context/Диаграмма контейнеров.png",
     "2. Технический проект/Код.md",
-    "Event Storming.md",
     "1. Исходные сведения/Словарь.md",
     "1. Исходные сведения/Введение.md",
     "out/2. Технический проект/sample-component/Recipe Service. Диаграмма компонентов.png",
     "out/2. Технический проект/sample-container/Recipe Web App. Диаграмма контейнеров.png",
     "3. Технические процессы/Ведение репозитория кода.md",
     "3. Технические процессы/Соглашение о кодировании.md",
-    "README.md",
     "3. Технические процессы/CI CD.md",
     "3. Технические процессы/Управление задачами.md",
     "3. Технические процессы/Документирование.md"
